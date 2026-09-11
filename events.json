@@ -1,0 +1,42 @@
+[
+  {
+    "action": "starred",
+    "repo": "public-apis/public-apis",
+    "description": "A collective list of free APIs for developers to use in their projects.",
+    "url": "https://github.com/public-apis/public-apis",
+    "language": "Python",
+    "starredAt": "2026-09-08",
+    "stars": "356k",
+    "topics": ["api", "resources"]
+  },
+  {
+    "action": "starred",
+    "repo": "sindresorhus/awesome",
+    "description": "A curated list of awesome lists.",
+    "url": "https://github.com/sindresorhus/awesome",
+    "language": "Markdown",
+    "starredAt": "2026-09-05",
+    "stars": "405k",
+    "topics": ["awesome-list", "resources"]
+  },
+  {
+    "action": "starred",
+    "repo": "denoland/deno",
+    "description": "A secure runtime for JavaScript and TypeScript.",
+    "url": "https://github.com/denoland/deno",
+    "language": "Rust",
+    "starredAt": "2026-08-29",
+    "stars": "98k",
+    "topics": ["javascript", "typescript", "runtime"]
+  },
+  {
+    "action": "starred",
+    "repo": "vitejs/vite",
+    "description": "Next generation frontend tooling for fast development.",
+    "url": "https://github.com/vitejs/vite",
+    "language": "TypeScript",
+    "starredAt": "2026-08-21",
+    "stars": "75k",
+    "topics": ["build-tool", "frontend"]
+  }
+]
